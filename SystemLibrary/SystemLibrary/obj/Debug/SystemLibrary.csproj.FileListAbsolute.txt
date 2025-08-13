@@ -1,0 +1,8 @@
+C:\Users\Asafe\Desktop\Automation\SystemLibrary\SystemLibrary\bin\Debug\SystemLibrary.exe.config
+C:\Users\Asafe\Desktop\Automation\SystemLibrary\SystemLibrary\bin\Debug\SystemLibrary.exe
+C:\Users\Asafe\Desktop\Automation\SystemLibrary\SystemLibrary\bin\Debug\SystemLibrary.pdb
+C:\Users\Asafe\Desktop\Automation\SystemLibrary\SystemLibrary\obj\Debug\SystemLibrary.csproj.AssemblyReference.cache
+C:\Users\Asafe\Desktop\Automation\SystemLibrary\SystemLibrary\obj\Debug\SystemLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asafe\Desktop\Automation\SystemLibrary\SystemLibrary\obj\Debug\SystemLibrary.exe
+C:\Users\Asafe\Desktop\Automation\SystemLibrary\SystemLibrary\obj\Debug\SystemLibrary.pdb
+C:\Users\Asafe\Desktop\Automation\SystemLibrary\SystemLibrary\obj\Debug\SystemLibrary.exe.config
